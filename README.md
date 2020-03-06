@@ -2,5 +2,6 @@
 
 This repository houses a proposed website for the Mastering Git book.
 
-Contact: This is my man surajpoudelg@gmail.com
+Contact:surajpoudelg@gmail.com
+Phone number:-0406211548
 
