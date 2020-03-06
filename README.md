@@ -2,4 +2,4 @@
 
 This repository houses a proposed website for the Mastering Git book.
 
-Contact: [@crispytwit](https://twitter.com/crispytwit)
+Contact: This is my man surajpoudelg@gmail.com
